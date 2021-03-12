@@ -2,7 +2,7 @@
 class play {
     public static void main(String[] args) {
 
-        System.out.println("\n-҉-҉ Program Single Linked List Circular untuk Tugas nomor 1 ҉-҉-");
+        System.out.println("\n-҉-҉ Program Double Linked List Circular untuk Tugas nomor 1 ҉-҉-");
 
         DLLC hmm = new DLLC();
 
